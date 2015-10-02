@@ -1,4 +1,4 @@
-
+@media screen and(min-width: 980px){
 body{
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ebf1f6+0,89c3eb+0,d5ebfb+100 */
 	background: rgb(235,241,246); /* Old browsers */
@@ -140,4 +140,5 @@ footer{
 	/*padding:10px;*/
 	text-align:center;
 	
+}
 }
